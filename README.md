@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-![Spotify recently played]([https://spotify-recently-played-readme.vercel.app/api?user=id9zhabk3cqm8mz161qkor09n](https://spotify-recently-played-readme.vercel.app/api?user=id9zhabk3cqm8mz161qkor09n&count=1&width=300)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=id9zhabk3cqm8mz161qkor09n&count=1&width=300)
