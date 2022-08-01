@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=id9zhabk3cqm8mz161qkor09n)
+
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=id9zhabk3cqm8mz161qkor09n)
