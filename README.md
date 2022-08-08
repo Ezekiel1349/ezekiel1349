@@ -1,7 +1,7 @@
 ![](https://ezekiel1349.github.io/media/top_2022.png)
 
 ### Hi there 👋, I'm Ezequiel
-(Self-taught, Web Developer, Musician and professional arepas eater).      
+_Self-taught, Web Developer, Musician and professional arepas eater._
 
 #
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=id9zhabk3cqm8mz161qkor09n&count=1&width=300)
