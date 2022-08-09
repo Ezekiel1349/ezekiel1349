@@ -4,7 +4,7 @@
 _Self-taught, Web Developer, Musician and professional arepas eater._  
 
 ![](https://komarev.com/ghpvc/?username=ezekiel1349)
-#
+
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=id9zhabk3cqm8mz161qkor09n&count=6&width=495)
 
 
