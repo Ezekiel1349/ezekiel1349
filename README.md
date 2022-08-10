@@ -5,6 +5,11 @@ _Self-taught, Web Developer, Musician and professional arepas eater._
 
 ![](https://komarev.com/ghpvc/?username=ezekiel1349)
 
+
+### 🎧 Spotify Playing
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=id9zhabk3cqm8mz161qkor09n&unique=true)
+
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=id9zhabk3cqm8mz161qkor09n&count=6&width=495)
 
 
@@ -28,5 +33,7 @@ Here are some ideas to get you started:
 
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ezekiel1349&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 
 
