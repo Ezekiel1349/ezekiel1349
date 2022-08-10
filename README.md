@@ -1,7 +1,10 @@
 ![](https://ezekiel1349.github.io/media/top_2022.png)
 
-## Hi there 👋, I'm Ezequiel [![Visits](https://komarev.com/ghpvc/?username=ezekiel1349)](../../..)
-_Self-taught, Web Developer, Musician and professional arepas eater._  
+## 👋 Hi there, I'm Ezequiel [![Visits](https://komarev.com/ghpvc/?username=ezekiel1349)](../../..)  
+_3 Decades and Counting, Venezuelan, Self-taught, Web Developer, Death Metal Musician and professional arepas eater.  
+Copyright &copy; 1985_
+
+For projects, write me a message at [LinkedIn](//linkedin.com/in/ezequiel-alonzo/)
 
 ## 💻 Equipment / OS
 [![Lenovo](https://img.shields.io/badge/lenovo%20laptop-E2231A?style=for-the-badge&logo=lenovo&logoColor=white)](../../..)
