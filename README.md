@@ -4,7 +4,9 @@
 _3 Decades and Counting, Venezuelan, Self-taught, Web Developer, [Death Metal Musician](//www.metal-archives.com/artists/Ezequiel_Alonzo) and professional arepas eater.  
 Copyright &copy; 1985_
 
-For projects, write me a message at [LinkedIn](//linkedin.com/in/ezequiel-alonzo/)
+For projects, write me a message at:
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-0a66c2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](//linkedin.com/in/ezequiel-alonzo/)
 
 ## 💻 Equipment / OS
 [![Lenovo](https://img.shields.io/badge/lenovo%20laptop-E2231A?style=for-the-badge&logo=lenovo&logoColor=white)](../../..)
@@ -16,6 +18,7 @@ For projects, write me a message at [LinkedIn](//linkedin.com/in/ezequiel-alonzo
 [![Adobe XD](https://img.shields.io/badge/Adobe%20XD-EEE5F7?style=for-the-badge&logo=Adobe%20XD&logoColor=450135)](../../..)
 [![Figma](https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](../../..)
 [![PHP](https://img.shields.io/badge/php-6A7AAF.svg?style=for-the-badge&logo=php&logoColor=white)](../../..)
+[![javascript](https://img.shields.io/badge/javascript-ffed3d.svg?style=for-the-badge&logo=javascript&logoColor=black)](../../..)
 [![HTML5](https://img.shields.io/badge/html5-E96228.svg?style=for-the-badge&logo=html5&logoColor=white)](../../..)
 [![CSS3](https://img.shields.io/badge/css3-2862E9.svg?style=for-the-badge&logo=css3&logoColor=white)](../../..)
 [![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)](//sass-lang.com)
@@ -28,7 +31,6 @@ For projects, write me a message at [LinkedIn](//linkedin.com/in/ezequiel-alonzo
 [![GitHub](https://img.shields.io/badge/github-000000.svg?style=for-the-badge&logo=github&logoColor=white)](//github.com)
 [![Godaddy](https://img.shields.io/badge/godaddy-000000.svg?style=for-the-badge&logo=godaddy&logoColor=white)](../../..)
 [![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)](../../..)
-[![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)](../../..)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](../../..)
 
 
