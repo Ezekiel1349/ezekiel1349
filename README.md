@@ -48,8 +48,6 @@ For projects, write me a message at:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ezekiel1349&theme=nord_dark)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ezekiel1349)
 
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 <!--
 **Ezekiel1349/ezekiel1349** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
