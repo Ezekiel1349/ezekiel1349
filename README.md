@@ -35,8 +35,8 @@ For projects, write me a message at:
 
 
 ## 🎮 Gaming
-[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](../../..)
-[![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)](../../..)
+[![PlayStation](https://img.shields.io/badge/PlayStation-%230070d1.svg?style=for-the-badge&logo=playstation&logoColor=white)](../../..)
+
 
 ## 🎧 Music
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](//open.spotify.com/user/id9zhabk3cqm8mz161qkor09n)
