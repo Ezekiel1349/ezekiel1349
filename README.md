@@ -10,9 +10,6 @@ For projects, write me a message at:
 
 
 ## 🎧 Music
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](//open.spotify.com/user/id9zhabk3cqm8mz161qkor09n)
-[![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](../../..)
-
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=id9zhabk3cqm8mz161qkor09n&unique=1&count=3&width=495)
 
 ## ⚡ GitHub Summary
