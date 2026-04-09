@@ -1,4 +1,4 @@
-![](https://ezekiel1349.github.io/media/top_2025.png)
+![]([https://ezekiel1349.github.io/media/top_2025.png](https://alonzo.dev/media/header/head_github.jpg))
 
 ## 👋 Hi there, I'm Ezequiel [![Visits](https://komarev.com/ghpvc/?username=ezekiel1349)](../../..)  
 _4 Decades and Counting, Venezuelan, Self-taught, Web Developer, [Death Metal Musician](//www.metal-archives.com/artists/Ezequiel_Alonzo) and professional arepas eater.  
