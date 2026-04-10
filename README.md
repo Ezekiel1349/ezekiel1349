@@ -1,12 +1,19 @@
 ![](https://alonzo.dev/media/header/head_github.jpg)
 
 ## 👋 Hi there, I'm Ezequiel [![Visits](https://komarev.com/ghpvc/?username=ezekiel1349)](../../..)  
-_4 Decades and Counting, Venezuelan, Self-taught, Web Developer, [Death Metal Musician](//www.metal-archives.com/artists/Ezequiel_Alonzo) and professional arepas eater.  
-Copyright &copy; 1985_
+
+Web developer with 18+ years of experience focused on custom WordPress and WooCommerce development.
+
+I build fast, scalable and maintainable websites, with clean architecture and real business logic.
+
+Strong background in front-end development (JavaScript, jQuery, SCSS, Tailwind) and experience working from Figma to production.
+
+Also working with React and modern front-end workflows like Astro.
 
 For projects, write me a message at:
-
 [![LinkedIn](https://img.shields.io/badge/linkedin-0a66c2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](//linkedin.com/in/ezequiel-alonzo/)
+
+Or send me email to: hola@alonzo.dev
 
 
 ## 🎧 Music
