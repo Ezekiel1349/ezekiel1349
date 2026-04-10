@@ -11,6 +11,7 @@ Strong background in front-end development (JavaScript, jQuery, SCSS, Tailwind) 
 Also working with React and modern front-end workflows like Astro.
 
 For projects, write me a message at:
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-0a66c2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](//linkedin.com/in/ezequiel-alonzo/)
 
 Or send me email to: hola@alonzo.dev
