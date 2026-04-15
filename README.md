@@ -4,11 +4,9 @@
 
 Web developer with 18+ years of experience focused on custom WordPress and WooCommerce development.
 
-I build fast, scalable and maintainable websites, with clean architecture and real business logic.
+Strong background in front-end development with React and modern front-end workflows like Astro, JavaScript, jQuery, SCSS, Tailwind.
 
-Strong background in front-end development (JavaScript, jQuery, SCSS, Tailwind) and experience working from Figma to production.
-
-Also working with React and modern front-end workflows like Astro.
+Pixel-perfect development of interfaces, respecting design and user experience from Figma to production.
 
 For projects, write me a message at:
 
