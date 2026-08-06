@@ -1,4 +1,4 @@
-![](https://alonzo.dev/media/header/head_github.jpg)
+![](https://alonzo.dev/media/header/head_github_alt.png)
 
 ## 👋 Hi there, I'm Ezequiel [![Visits](https://komarev.com/ghpvc/?username=ezekiel1349)](../../..)  
 
